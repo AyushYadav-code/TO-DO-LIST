@@ -1,0 +1,16 @@
+WakeUp at 7'O Clock
+Drink 1 Litre Water
+Go to Bath
+Worship the Lord
+Eat Breakfast - 9am
+1 Hour for Pyhton - 10am
+2 Hour for DSA - 11am
+Eat Lunch - 1pm
+1Hr for Watching Entertainment
+3pm to 5pm Content
+5pm Pre-Workout Meal
+6pm Gym
+8pm to 9pm Problem Solving
+9pm Eat Dinner
+10pm Go to Bed
+python -u "c:\Users\ay985\Documents\VS CODE\ToDO.py"
